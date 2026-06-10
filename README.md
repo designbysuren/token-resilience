@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.gif" alt="Token Resilience animated banner" width="100%">
+</p>
+
 # Token Resilience
 
 **An audit framework for design tokens in the era of user-controlled rendering.**
